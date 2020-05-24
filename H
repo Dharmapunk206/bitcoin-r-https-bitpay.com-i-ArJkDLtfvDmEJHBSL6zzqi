@@ -1,0 +1,7 @@
+echo "# bitcoin-r-https-bitpay.com-i-ArJkDLtfvDmEJHBSL6zzqi" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:Dharmapunk206/bitcoin-r-https-bitpay.com-i-ArJkDLtfvDmEJHBSL6zzqi.git
+git push -u origin master
+                
